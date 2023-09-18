@@ -1,0 +1,28 @@
+@font-face {
+  font-family: MyFont;
+  src: url("fonts/Montserrat-VariableFont_wght.ttf");
+  font-weight: lighter;
+}
+
+img {
+  width: 100%;
+}
+
+body {
+  text-align: center;
+  font-family: MyFont;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.background_img {
+  background-image: url(images/art_exbh.jpg);
+  width: 200px;
+  height: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+}

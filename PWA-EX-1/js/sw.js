@@ -2,8 +2,8 @@
 const files = [
   "",
   "./index.html",
-  "./main.js",
-  "./main.css",
+  "./js/main.js",
+  "./style.css",
   "./fonts/Montserrat-VariableFont_wght.ttfMontserrat-VariableFont_wght.ttf"
 ];
 
