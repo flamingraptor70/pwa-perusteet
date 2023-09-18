@@ -2,7 +2,7 @@
   "theme_color": "#FFFFFF",
   "background_color": "#FFEDFF",
   "display": "standalone",
-  "start_url": "/index.html",
+  "start_url": "https://users.metropolia.fi/~khaic/S2023/pwa-perusteet/PWA-EX-1/",
   "name": "PWA_EX1",
   "short_name": "EX1",
   "icons": [{
